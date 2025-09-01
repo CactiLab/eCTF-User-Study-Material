@@ -1,5 +1,7 @@
 # "We just did not have that on the embedded system": Insights and Challenges for Securing Microcontroller Systems from the Embedded CTF Competitions
 
+[![DOI](https://zenodo.org/badge/1023921481.svg)](https://doi.org/10.5281/zenodo.17026747)
+
 This repository contains the additional research artifacts for the paper _"We just did not have that on the embedded system": Insights and Challenges for Securing Microcontroller Systems from the Embedded CTF Competitions_.
 
 In alignment with the open science policy, our study is committed to enhancing the transparency of our research findings. 
